@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: nodes.py
-作者: ZZS
-项目: 03_代码
-创建日期: 2026/10/13
-描述:
-"""
 # backend/agents/qa/nodes.py
 
 import asyncio

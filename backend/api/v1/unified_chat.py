@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: unified_chat.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/7/20
-描述: 
-"""
 # backend/api/v1/unified_chat.py
 # 统一 AI 助手入口：意图识别 → 路由决策可视化 → Agent 执行
 #

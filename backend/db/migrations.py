@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: migrations.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/7/20
-描述: 
-"""
 # backend/db/migrations.py
 #
 # 启动时自动执行的 Schema 补丁（全部幂等，可重复运行）。

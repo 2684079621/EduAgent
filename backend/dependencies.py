@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: dependencies.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/7/20
-描述: 
-"""
 # backend/dependencies.py（数据库部分）
 from typing import AsyncGenerator
 from fastapi import Depends, HTTPException, status

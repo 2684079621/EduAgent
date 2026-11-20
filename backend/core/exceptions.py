@@ -1,12 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: exceptions.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/7/20
-描述: 
-"""
+
 # backend/core/exceptions.py
 # EduAgent 统一异常体系：所有自定义异常都继承同一个基类，
 # 便于「一次捕获全部」以及按「可重试 / 不可重试」分类处理。

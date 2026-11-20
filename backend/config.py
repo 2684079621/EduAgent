@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: config.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/7/20
-描述: 
-"""
 # backend/config.py
 # 全项目唯一的「配置中心」：从 .env.local 读取所有配置项，供任何模块取用。
 

@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: logger.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/7/20
-描述: 
-"""
 # backend/core/logger.py
 # 全项目的日志工具：在标准库 logging 之上做一层包装，
 # 支持「事件名 + 键值对」的结构化日志写法。

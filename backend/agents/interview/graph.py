@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: graph.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/10/15
-描述: 
-"""
 # backend/agents/interview/graph.py
 
 from langgraph.graph import StateGraph, START, END

@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: state.py
-作者: ZZS
-项目: 03_代码
-创建日期: 2026/10/13
-描述:
-"""
 # backend/agents/qa/state.py
 
 from typing import Annotated, Optional

@@ -1,12 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: knowledge_base.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/7/20
-描述: 
-"""
+
 # backend/core/knowledge_base.py（阶段版：仅含 BGEMEmbedder + 数据类，5.6 补充 KnowledgeBaseClient）
 
 import hashlib

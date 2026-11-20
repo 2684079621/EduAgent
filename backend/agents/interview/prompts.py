@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: prompts.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/10/15
-描述: 
-"""
 # backend/agents/interview/prompts.py
 
 SYSTEM_PROMPT = """你是一位经验丰富的 IT 公司技术面试官，正在对应届生或初级工程师候选人进行模拟面试，岗位为{position}。
