@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: agent2_api_test.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/10/14
-描述:
-"""
 # scripts/manual_tests/test_qa.py
 
 import sys

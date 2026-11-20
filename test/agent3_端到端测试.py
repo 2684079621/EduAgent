@@ -1,12 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: agent3_端到端测试.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/10/15
-描述: 
-"""
+
 # scripts/manual_tests/test_exam.py
 
 import sys

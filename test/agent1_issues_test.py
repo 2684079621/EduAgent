@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: agent1_issues_test.py
-作者: ZZS
-项目: 03_代码
-创建日期: 2026/10/10
-描述:
-"""
 import asyncio
 import sys
 from types import SimpleNamespace

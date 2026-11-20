@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: agent2_state_prompt_test.py
-作者: ZZS
-项目: 03_代码
-创建日期: 2026/10/13
-描述:
-"""
 from backend.agents.qa.state import QAState
 from backend.agents.qa.prompts import (
     SYSTEM_PROMPT, RAG_STRATEGY_PROMPT, HYDE_PROMPT,
