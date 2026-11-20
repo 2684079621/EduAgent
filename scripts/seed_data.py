@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: seed_data.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/7/20
-描述: 
-"""
 # scripts/seed_data.py
 # 执行：python scripts/seed_data.py
 # 用途：灌入本地开发测试账号
