@@ -1,12 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-文件名: agent3_创建端到端文档测试doc.py
-作者: ZZS
-项目: 2_代码
-创建日期: 2026/10/15
-描述: 
-"""
+
 # scripts/manual_tests/create_test_exam_docx.py
 """生成一份包含客观题+简答题的测试 Word 文件"""
 
