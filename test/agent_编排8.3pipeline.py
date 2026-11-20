@@ -1,4 +1,12 @@
-
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+文件名: agent_编排8.3pipeline.py
+作者: ZZS
+项目: 2_代码
+创建日期: 2026/10/16
+描述: 
+"""
 # scripts/manual_tests/orch_08_03_pipeline.py
 # 纯离线，无需启动服务。运行：python scripts/manual_tests/orch_08_03_pipeline.py
 

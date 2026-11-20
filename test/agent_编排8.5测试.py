@@ -1,4 +1,12 @@
-
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+文件名: agent_编排8.5测试.py
+作者: ZZS
+项目: 2_代码
+创建日期: 2026/10/18
+描述: 
+"""
 # scripts/manual_tests/uc_08_05_dispatch.py
 # 仅离线验证纯工具。运行：python scripts/manual_tests/uc_08_05_dispatch.py
 
